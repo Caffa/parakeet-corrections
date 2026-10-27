@@ -1,0 +1,115 @@
+{
+  "schema": "handy-dictionary",
+  "version": 1,
+  "customWords": [],
+  "replacements": [
+    {
+      "from": "transmigated",
+      "to": "transmigrated"
+    },
+    {
+      "from": "fulfiled",
+      "to": "fulfilled"
+    },
+    {
+      "from": "fulfiling",
+      "to": "fulfilling"
+    },
+    {
+      "from": "open code",
+      "to": "OpenCode"
+    },
+    {
+      "from": "Olama",
+      "to": "Ollama"
+    },
+    {
+      "from": "quenn",
+      "to": "Qwen"
+    },
+    {
+      "from": "supstack",
+      "to": "Substack"
+    },
+    {
+      "from": "iherp",
+      "to": "iHerb"
+    },
+    {
+      "from": "shoppy",
+      "to": "Shopee"
+    },
+    {
+      "from": "alphra",
+      "to": "Alfred"
+    },
+    {
+      "from": "excala draw",
+      "to": "Excalidraw"
+    },
+    {
+      "from": "excala",
+      "to": "Excalidraw"
+    },
+    {
+      "from": "zetel",
+      "to": "zettel"
+    },
+    {
+      "from": "zetal",
+      "to": "zettel"
+    },
+    {
+      "from": "zatal",
+      "to": "zettel"
+    },
+    {
+      "from": "zethel",
+      "to": "zettel"
+    },
+    {
+      "from": "Hogwoods",
+      "to": "Hogwarts"
+    },
+    {
+      "from": "slitterin",
+      "to": "Slytherin"
+    },
+    {
+      "from": "hufflepath",
+      "to": "Hufflepuff"
+    },
+    {
+      "from": "tiananin",
+      "to": "theanine"
+    },
+    {
+      "from": "cholerella",
+      "to": "chlorella"
+    },
+    {
+      "from": "colorella",
+      "to": "chlorella"
+    },
+    {
+      "from": "silum",
+      "to": "psyllium"
+    },
+    {
+      "from": "propylus",
+      "to": "propolis"
+    },
+    {
+      "from": "procolis",
+      "to": "propolis"
+    },
+    {
+      "from": "penadol",
+      "to": "Panadol"
+    },
+    {
+      "from": "congi",
+      "to": "congee"
+    }
+  ]
+}

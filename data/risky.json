@@ -1,0 +1,5 @@
+[
+{"mistranslation":"tread","correction":"thread","collides_with":"tread","note":"Imports will also rewrite the genuine word 'tread' (tread carefully). Safe if you nearly always mean the noun."},
+{"mistranslation":"treads","correction":"threads","collides_with":"treads","note":"Plural; same tradeoff as tread→thread."},
+{"mistranslation":"gamma","correction":"Gemma","collides_with":"gamma","note":"Only safe if you never dictate about gamma rays, gamma functions, or gamma cameras."}
+]
